@@ -1,0 +1,326 @@
+========LOAD========
+Success
+====================
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 1 | Cancelled
+AK201 | AirKwangwoon | MUC | 1 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+====================
+========SEARCH_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+====================
+========== ERROR ==========
+200
+===========================
+
+========== ERROR ==========
+600
+===========================
+
+========EXIT========
+Success
+========LOAD========
+Success
+====================
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 1 | Cancelled
+AK201 | AirKwangwoon | MUC | 1 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+====================
+========SEARCH_BP========
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+====================
+========SEARCH_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+====================
+========== ERROR ==========
+400
+===========================
+
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+AK201 | AirKwangwoon | MUC | 0 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 0 | Boarding
+JA333 | JeanAir | CJU | 0 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+OZ999 | ASIANA | MUC | 7 | Boarding
+====================
+========== ERROR ==========
+500
+===========================
+
+========VLOAD========
+Success
+====================
+========== VPRINT A ==========
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+AK201 | AirKwangwoon | MUC | 0 | Boarding
+JA333 | JeanAir | CJU | 0 | Boarding
+JA222 | JeanAir | MUC | 0 | Boarding
+===========================
+
+========EXIT========
+Success
+========LOAD========
+Success
+====================
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 1 | Cancelled
+AK201 | AirKwangwoon | MUC | 1 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+====================
+========SEARCH_BP========
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+====================
+========SEARCH_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+====================
+========== ERROR ==========
+400
+===========================
+
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+AK201 | AirKwangwoon | MUC | 0 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 0 | Boarding
+JA333 | JeanAir | CJU | 0 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+OZ999 | ASIANA | MUC | 7 | Boarding
+====================
+========== ERROR ==========
+500
+===========================
+
+========VLOAD========
+Success
+====================
+========== VPRINT A ==========
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+AK201 | AirKwangwoon | MUC | 0 | Boarding
+JA333 | JeanAir | CJU | 0 | Boarding
+JA222 | JeanAir | MUC | 0 | Boarding
+===========================
+
+========EXIT========
+Success
+========LOAD========
+Success
+====================
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 1 | Cancelled
+AK201 | AirKwangwoon | MUC | 1 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+====================
+========SEARCH_BP========
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+====================
+========SEARCH_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+====================
+========== ERROR ==========
+400
+===========================
+
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+AK201 | AirKwangwoon | MUC | 0 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 0 | Boarding
+JA333 | JeanAir | CJU | 0 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+OZ999 | ASIANA | MUC | 7 | Boarding
+====================
+========== SEARCH_AVL ==========
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+===========================
+
+========VLOAD========
+Success
+====================
+========== VPRINT A ==========
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+AK201 | AirKwangwoon | MUC | 0 | Boarding
+JA333 | JeanAir | CJU | 0 | Boarding
+JA222 | JeanAir | MUC | 0 | Boarding
+===========================
+
+========EXIT========
+Success
+========LOAD========
+Success
+====================
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 1 | Cancelled
+AK201 | AirKwangwoon | MUC | 1 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+====================
+========SEARCH_BP========
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+====================
+========SEARCH_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+====================
+========== ERROR ==========
+400
+===========================
+
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+AK201 | AirKwangwoon | MUC | 0 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 0 | Boarding
+JA333 | JeanAir | CJU | 0 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+OZ999 | ASIANA | MUC | 7 | Boarding
+====================
+========== SEARCH_AVL ==========
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+===========================
+
+========VLOAD========
+Success
+====================
+========LOAD========
+Success
+====================
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 1 | Cancelled
+AK201 | AirKwangwoon | MUC | 1 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+====================
+========SEARCH_BP========
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+====================
+========SEARCH_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+====================
+========== ERROR ==========
+400
+===========================
+
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+AK201 | AirKwangwoon | MUC | 0 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 0 | Boarding
+JA333 | JeanAir | CJU | 0 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+OZ999 | ASIANA | MUC | 7 | Boarding
+====================
+========== SEARCH_AVL ==========
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+===========================
+
+========VLOAD========
+Success
+====================
+========LOAD========
+Success
+====================
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 1 | Cancelled
+AK201 | AirKwangwoon | MUC | 1 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+====================
+========SEARCH_BP========
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 1 | Boarding
+JA333 | JeanAir | CJU | 1 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+====================
+========SEARCH_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+====================
+========== ERROR ==========
+400
+===========================
+
+========PRINT_BP========
+7C024 | JEJU | CJU | 1 | Delayed
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+AK201 | AirKwangwoon | MUC | 0 | Boarding
+JA111 | JeanAir | MUC | 1 | Departure
+JA222 | JeanAir | MUC | 0 | Boarding
+JA333 | JeanAir | CJU | 0 | Boarding
+KE901 | KoreanAir | LAX | 1 | Boarding
+OZ107 | ASIANA | SIN | 2 | Boarding
+OZ999 | ASIANA | MUC | 7 | Boarding
+====================
+========== SEARCH_AVL ==========
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+===========================
+
+========VLOAD========
+Success
+====================
+========== VPRINT B ==========
+JA333 | JeanAir | CJU | 0 | Boarding
+AK101 | AirKwangwoon | LHR | 0 | Boarding
+JA222 | JeanAir | MUC | 0 | Boarding
+AK201 | AirKwangwoon | MUC | 0 | Boarding
+===========================
+
+========EXIT========
+Success
