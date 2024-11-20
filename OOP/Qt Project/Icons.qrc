@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resource/puyo.png</file>
+        <file>Resource/Tetris_logo.png</file>
+        <file>Resource/puyopuyotetris_logo.png</file>
+    </qresource>
+</RCC>
